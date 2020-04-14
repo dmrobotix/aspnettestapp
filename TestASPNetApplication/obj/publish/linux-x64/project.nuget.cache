@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjctU8XnxnEUVhAs/xC1RRfxZaEx473PJyNcnpqD/VSHSvLOUWXm4y0VpvJvg+u0+x5oynIOO3WOAdhSN1bztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vpaez3\\source\\repos\\TestASPNetApplication\\TestASPNetApplication\\TestASPNetApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpaez3\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\vpaez3\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\vpaez3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\vpaez3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512",
+    "C:\\Users\\vpaez3\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.3\\microsoft.netcore.app.host.linux-x64.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
